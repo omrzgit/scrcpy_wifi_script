@@ -1,5 +1,6 @@
 # scrcpy Connection Manager
 A simple yet powerful Windows Batch Script designed to simplify connecting and launching of [scrcpy](https://github.com/Genymobile/scrcpy); the powerful Android screen mirroring tool. This manager improves ease of usage for auto connection handling, multiple IP management, and extensive troubleshooting capabilities.
+Hopefully will be able to merge this with the original but till then it matures here.
 
 ## ✨ Key Features
 ### 🔌 Smart Connection Management
